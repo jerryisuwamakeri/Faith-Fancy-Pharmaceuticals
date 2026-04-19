@@ -12,7 +12,7 @@ export function Footer() {
           {/* Brand */}
           <div className="max-w-sm">
             <Link href="/" className="group flex items-center gap-3">
-              <div className="relative flex h-[9rem] w-[9rem] items-center justify-center overflow-hidden rounded-xl bg-white shadow-sm">
+              <div className="relative flex h-24 w-24 items-center justify-center overflow-hidden rounded-xl bg-white shadow-sm">
                 <Image src="/logo.jpeg" alt="Faith Fancy Pharmaceutical Logo" fill className="object-contain p-0.5" />
               </div>
               <div>
