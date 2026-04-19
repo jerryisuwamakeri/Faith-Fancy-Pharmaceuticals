@@ -29,7 +29,7 @@ export function Nav() {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <Link href="/" className="group flex items-center gap-3">
-            <div className="relative flex h-10 w-10 items-center justify-center overflow-hidden rounded-xl bg-white shadow-sm sm:h-12 sm:w-12">
+            <div className="relative flex h-[7.5rem] w-[7.5rem] items-center justify-center overflow-hidden rounded-xl bg-white shadow-sm sm:h-[9rem] sm:w-[9rem]">
               <Image src="/logo.jpeg" alt="Faith Fancy Pharmaceutical Logo" fill className="object-contain p-0.5" />
             </div>
             <div className="hidden sm:block">
